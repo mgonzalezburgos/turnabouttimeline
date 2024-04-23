@@ -26,6 +26,7 @@
 ## People
 - [Edogawa Rampo](Rampo.jpg)
 - [Shu Takumi](takumi.jpg)
+- [Takeshi Yamazaki](yamazaki.png)
 
 ## Miscellaneous
 - [capcom leak](capcomdatabreach.png)
