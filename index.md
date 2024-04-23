@@ -1,3 +1,7 @@
 - [capcom leak](capcomdatabreach.png)
 - [Un Momento](unmomento.png)
 - [Kurain Tweet](kurain.png)
+- [Gyakuten Saiban GBA](GS1gba.jpg)
+- [Gyakuten Saiban 2 GBA](GS2gba.jpg)
+- [Gyakuten Saiban 3 GBA](GS3gba.jpg)
+- 
