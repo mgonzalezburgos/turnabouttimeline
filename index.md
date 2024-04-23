@@ -1,2 +1,3 @@
 - [capcom leak](capcomdatabreach.png)
 - [Un Momento](unmomento.png)
+- [Kurain Tweet](kurain.png)
