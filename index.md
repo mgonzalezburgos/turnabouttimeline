@@ -18,6 +18,9 @@
 - [Gyakuten Saiban 5 3DS](GS53ds.jpg)
 - [Gyakuten Saiban 6 3DS](GS63ds.png)
 
+## Other Covers
+- [Gyakuten Saiban 123 Naruhodo Serekushon](gs123.png)
+
 
 ## Fan Labor
 - [French Fan Translation of AAI: Miles Edgeworth](jaquette.png)
