@@ -5,14 +5,22 @@
 
 ## Game Covers NDS
 - [Phoenix Wright: Ace Attorney NDS](pwaa.png)
+- [Gyakuten Saiban 4 NDS](GS4nds.jpg)
+- [Gyakuten Kenji 1 NDS](kenji1.jpg)
+- [Gyakuten Kenji 2 NDS](kenji2.jpg)
+- [Gyakuten Kenji 2: Collector's Edition](kenji2collectors.jpg)
 
 ## Game Covers 3DS
+- [Gyakuten Saiban 5 3DS](GS53ds.jpg)
+- [Gyakuten Saiban 6 3DS](GS63ds.png)
+
 
 ## Fan Labor
 - [French Fan Translation of AAI: Miles Edgeworth](jaquette.png)
 - [Kurain Tweet](kurain.png)
 - [Un Momento](unmomento.png)
 - [French Fan Translation Cover for AAI2](gk2frenchfancover.jpg)
+- [Ace Attorney Investigations: Miles Edgeworth, <i>Prosecutor's Path</i>](prosecutorspathjacket.png)
 
 
 ## People
