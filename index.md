@@ -9,4 +9,5 @@
 - [Recipe For Turnabout](recipeforturnabout.png)
 - [Shu Takumi](takumi.jpg)
 - [Phoenix Wright: Ace Attorney NDS](pwaa.png)
-- 
+- [French Fan Translation of AAI: Miles Edgeworth](jaquette.png
+- )
