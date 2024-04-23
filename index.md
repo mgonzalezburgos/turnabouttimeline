@@ -12,7 +12,7 @@
 - [Phoenix Wright: Ace Attorney, <i>Justice For All</i> NDS](jfands.jpg)
 - [Phoenix Wright: Ace Attorney, <i>Trials and Tribulations</i> NDS](tandtnds.jpg)
 - [Apollo Justice: Ace Attorney NDS](ajaands.png)
-
+- [Ace Attorney Investigations: Miles Edgeworth NDS](aaids.jpg)
 
 ## Game Covers 3DS
 - [Gyakuten Saiban 5 3DS](GS53ds.jpg)
