@@ -10,6 +10,7 @@
 - [Gyakuten Kenji 2 NDS](kenji2.jpg)
 - [Gyakuten Kenji 2: Collector's Edition](kenji2collectors.jpg)
 - [Phoenix Wright: Ace Attorney, <i>Justice For All</i> NDS](jfands.jpg)
+- [Phoenix Wright: Ace Attorney, <i>Trials and Tribulations</i> NDS](tandtnds.jpg)
 
 
 ## Game Covers 3DS
