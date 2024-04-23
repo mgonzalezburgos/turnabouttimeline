@@ -11,6 +11,7 @@
 ## Fan Labor
 - [French Fan Translation of AAI: Miles Edgeworth](jaquette.png)
 - [Kurain Tweet](kurain.png)
+- [Un Momento](unmomento.png)
 
 ## People
 - [Edogawa Rampo](Rampo.jpg)
@@ -18,7 +19,6 @@
 
 ## Miscellaneous
 - [capcom leak](capcomdatabreach.png)
-- [Un Momento](unmomento.png)
 - [objection](objection.png)
 - [Recipe For Turnabout](recipeforturnabout.png)
 
