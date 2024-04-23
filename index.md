@@ -7,4 +7,5 @@
 - [Edogawa Rampo](Rampo.jpg)
 - [objection](objection.png)
 - [Recipe For Turnabout](recipeforturnabout.png)
-- 
+- [Shu Takumi](takumi.jpg)
+-
