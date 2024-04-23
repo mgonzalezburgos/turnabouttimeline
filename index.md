@@ -12,6 +12,8 @@
 - [French Fan Translation of AAI: Miles Edgeworth](jaquette.png)
 - [Kurain Tweet](kurain.png)
 - [Un Momento](unmomento.png)
+- [French Fan Translation Cover for AAI2](gk2frenchfancover.jpg)
+
 
 ## People
 - [Edogawa Rampo](Rampo.jpg)
