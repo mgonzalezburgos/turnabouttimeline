@@ -27,6 +27,8 @@
 - [Edogawa Rampo](Rampo.jpg)
 - [Shu Takumi](takumi.jpg)
 - [Takeshi Yamazaki](yamazaki.png)
+- [Soseki Natsume, The Author](natsumirl.jpg)
+- [Soseki Natsume, DGS Concept Art](natsumeconceptart.png)
 
 ## Miscellaneous
 - [capcom leak](capcomdatabreach.png)
