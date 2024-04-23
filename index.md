@@ -4,4 +4,5 @@
 - [Gyakuten Saiban GBA](GS1gba.jpg)
 - [Gyakuten Saiban 2 GBA](GS2gba.jpg)
 - [Gyakuten Saiban 3 GBA](GS3gba.jpg)
-- 
+- [Edogawa Rampo](Rampo.jpg)
+- [objection](objection.png)
