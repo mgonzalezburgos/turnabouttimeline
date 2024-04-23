@@ -19,6 +19,7 @@
 - [Gyakuten Saiban 6 3DS](GS63ds.png)
 - [layton v wright japan](plpwjp.jpg)
 - [layton v wright global](plpwNA.jpg)
+- [Phoenix Wright: Ace Attorney <i>Dual Destinies</i>](pwaadd.png)
 
 
 ## Other Covers
