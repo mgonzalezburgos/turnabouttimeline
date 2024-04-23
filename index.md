@@ -23,7 +23,7 @@
 - [DGS 1 3DS](dgs1.jpg)
 - [DGS 2 3DS](dgs2.jpg)
 - [Spirit of justice](pwaasoj.png)
-
+- [great ace attorney chronicles](tgaac.jpg)
 
 
 ## Other Covers
