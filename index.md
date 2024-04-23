@@ -22,6 +22,7 @@
 - [Phoenix Wright: Ace Attorney <i>Dual Destinies</i>](pwaadd.png)
 - [DGS 1 3DS](dgs1.jpg)
 - [DGS 2 3DS](dgs2.jpg)
+- [Spirit of justice](pwaasoj.png.)
 
 
 
