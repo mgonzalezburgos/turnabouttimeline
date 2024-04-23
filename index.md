@@ -17,6 +17,9 @@
 ## Game Covers 3DS
 - [Gyakuten Saiban 5 3DS](GS53ds.jpg)
 - [Gyakuten Saiban 6 3DS](GS63ds.png)
+- [layton v wright japan](plpwjp.jpg)
+- [layton v wright global](plpwNA.jpg)
+
 
 ## Other Covers
 - [Gyakuten Saiban 123 Naruhodo Serekushon](gs123.png)
