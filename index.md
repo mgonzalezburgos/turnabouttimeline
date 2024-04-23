@@ -23,12 +23,13 @@
 - [DGS 1 3DS](dgs1.jpg)
 - [DGS 2 3DS](dgs2.jpg)
 - [Spirit of justice](pwaasoj.png)
-- [great ace attorney chronicles](tgaac.jpg)
 
 
 ## Other Covers
 - [Gyakuten Saiban 123 Naruhodo Serekushon](gs123.png)
 - [Phoenix Wright: Ace Attorney Trilogy](pwaat.jpg)
+- [great ace attorney chronicles](tgaac.jpg)
+- [Apollo Justice: Ace Attorney Trilogy](ajaat.jpg)
 
 
 ## Fan Labor
