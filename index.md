@@ -23,6 +23,7 @@
 
 ## Other Covers
 - [Gyakuten Saiban 123 Naruhodo Serekushon](gs123.png)
+- [Phoenix Wright: Ace Attorney Trilogy](pwaat.jpg)
 
 
 ## Fan Labor
