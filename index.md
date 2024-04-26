@@ -52,3 +52,16 @@
 - [objection](objection.png)
 - [Recipe For Turnabout](recipeforturnabout.png)
 
+## Temporary Hosting Location for SuperGavinBros Panels
+- [Panel 1](gavinbros1.png)
+- [Panel 2](gavinbros2.png)
+- [Panel 3](gavinbros3.png)
+- [Panel 4](gavinbros4.png)
+- [Panel 5](gavinbros5.png)
+- [Panel 5](gavinbros5.png)
+- [Panel 6](gavinbros6.png)
+- [Panel 7](gavinbros7.png)
+- [Panel 8](gavinbros8.png)
+- [Panel 9](gavinbros9.png)
+- [Panel 10](gavinbros10.png)
+
