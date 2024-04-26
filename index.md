@@ -58,7 +58,6 @@
 - [Panel 3](gavinbros3.png)
 - [Panel 4](gavinbros4.png)
 - [Panel 5](gavinbros5.png)
-- [Panel 5](gavinbros5.png)
 - [Panel 6](gavinbros6.png)
 - [Panel 7](gavinbros7.png)
 - [Panel 8](gavinbros8.png)
