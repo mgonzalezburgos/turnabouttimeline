@@ -52,7 +52,7 @@
 - [objection](objection.png)
 - [Recipe For Turnabout](recipeforturnabout.png)
 
-## Temporary Hosting Location for SuperGavinBros Panels
+## Temporary Hosting Location for SuperGavinBros Content
 - [Panel 1](gavinbros1.png)
 - [Panel 2](gavinbros2.png)
 - [Panel 3](gavinbros3.png)
@@ -63,4 +63,6 @@
 - [Panel 8](gavinbros8.png)
 - [Panel 9](gavinbros9.png)
 - [Panel 10](gavinbros10.png)
+- [StudyWGavinTrack](Study%20With%20Gavin%20MUS%205365%20Final%20MGGB.mp3)
+
 
